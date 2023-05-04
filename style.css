@@ -15,7 +15,7 @@ header nav {
     text-align: right;
     background-color:#0D5C63 ;
     position: fixed;
-    width: 95%;
+    width: 100%;
 }
 header nav ul li {
     display: inline-block;
